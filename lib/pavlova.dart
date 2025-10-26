@@ -13,7 +13,7 @@ class Pavlova extends StatelessWidget {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Image.asset('assets/pavlova.png ', fit: BoxFit.cover),
+          Image.asset('assets/pavlova.png', fit: BoxFit.cover),
           Padding(padding: const EdgeInsets.all(16.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
